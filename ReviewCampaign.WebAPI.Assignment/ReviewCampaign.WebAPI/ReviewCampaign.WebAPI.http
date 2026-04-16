@@ -1,0 +1,6 @@
+@ReviewCampaign.WebAPI_HostAddress = http://localhost:5004
+
+GET {{ReviewCampaign.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
